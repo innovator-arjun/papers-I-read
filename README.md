@@ -3,7 +3,4 @@ I am inspired by my Mentors to kick start an initiative to read a paper a week. 
 
 <h2>Reinforcement Papers</h2>
 
-<ul>
-<li>[Playing Atari with Deep Reinforcement Learning](https://docs.google.com/document/d/13zlJY6RNoGIzw0pQHd-nxkqiGAYwVB0pJJ-nADIgATs/edit)</li>
-
-</ul>
+[Playing Atari with Deep Reinforcement Learning](https://docs.google.com/document/d/13zlJY6RNoGIzw0pQHd-nxkqiGAYwVB0pJJ-nADIgATs/edit)
