@@ -10,3 +10,5 @@ This repository will hold all those papers and its related summaries
 
 [ImageNet Classification with Deep Convolutional Neural Networks](https://docs.google.com/document/d/1LVDO7-7t-7N8jKuRIyF-1XPhhv0VJ15Z0PEF-AwgR28/edit)
 
+[Deep Residual Learning for Image Recognition](https://docs.google.com/document/d/11vkPalKGHUydE_O2-OPJxnJ9ed3fxP84IFpR53XM_w4/edit)
+
