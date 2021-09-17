@@ -12,3 +12,4 @@ This repository will hold all those papers and its related summaries
 
 [Deep Residual Learning for Image Recognition](https://docs.google.com/document/d/11vkPalKGHUydE_O2-OPJxnJ9ed3fxP84IFpR53XM_w4/edit)
 
+[Attention Is All You Need](https://docs.google.com/document/d/1fk3_p36p-Pe2CgTndhGUvh9iuvCmW7KeU_itvYvA9NI/edit)
